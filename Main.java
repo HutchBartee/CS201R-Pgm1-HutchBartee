@@ -18,33 +18,32 @@ public class Main {
     char letter = 'A';
     String words = "The Words";
 
-    //LECTURE 1
-    //add code to input a string replacing the variable 
-    //words with the input value
+    //TASK 1:
+    //add code to input a string that replaces the value in 'words'
 
     //print the string
 
 
 
+    //TASK 2:
+    //add code to input a new value for the variable 'letter'
+    //'letter' is defined in line 18
 
-    //add code to input a new value for the variable
-    //letter
-
-    //LECTURE 2
+    //TASK 3:
     //if the letter entered is A or B - print "You did GREAT!"
     //if the letter is C - print "You did GOOD!"
     //if the letter is D or F - print "Try again"
     //if the letter is something else, print "Incorrect value"
 
 
-    //LECTURE 1
+    //LECTURE 1 DEMO:
     //this is demonstrating different values
     String bigTheta = "\u0398";
 
     System.out.println(bigTheta + "    \u03B1" + "   " + 0b1111);
     
 
-    //LECTURE 1
+    //LECTURE 1 DEMO:
     //formatting values for output
     double value = 16.404674;
     System.out.printf("Value is $%4.2f", value);
